@@ -1,0 +1,10 @@
+{
+  "name": "Map_Vote",
+  "version": "1.0.0",
+  "description": "A bot created to handle the voting for mtctf maps",
+  "main": "src/index.js",
+  "author": "olliy",
+  "dependencies": {
+    "discord.js": "^14.12.1"
+  }
+}
